@@ -1,5 +1,5 @@
 # PSO simulation
-PSO implementation for optimizing Schwefel and Rosenbrock banana functions with matplotlib animated visualizations
+PSO implementation for optimizing functions Schwefel and Rosenbrock banana with matplotlib animated visualizations
 
 ### 1. Clone the repo
 git clone
